@@ -1,5 +1,5 @@
 let trans = document.getElementsByTagName('span')[0]
-let titles = ['Web designer.', 'Graphic designer.', 'Web developer.']
+let titles = ['Web developer.', 'Graphic designer.', 'Web designer.']
 
 let i = 0
 function fadeIn() {
