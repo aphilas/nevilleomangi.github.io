@@ -1,2 +1,2 @@
-# nevilleomangi.github.io
-Personal portfolio
+# Neville Omangi personal page
+[Go to my website](https://www.nevilleomangi.me/).
