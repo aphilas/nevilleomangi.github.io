@@ -1,0 +1,41 @@
+body{
+  margin: 0;
+  height: 100vh;
+
+  font-family: 'Work Sans', sans-serif;
+
+  display: flex;
+  flex-direction: column;
+  
+  justify-content: space-between;
+}
+
+.main{
+  display: flex;
+  align-items: center;
+  flex-grow: 2;
+  justify-content: center;
+}
+
+h1{
+  font-size: 2.5em;
+  font-weight: 300;
+}
+
+span{
+  font-weight: 400;
+  display: inline-block;
+  width: 9em;
+
+  transition: 0.5s all;
+}
+
+.hide{
+  opacity: 0;
+}
+
+footer{
+  display: flex;
+  justify-content: space-around;
+  padding: 0.5em;
+}
